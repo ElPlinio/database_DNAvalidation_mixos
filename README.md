@@ -14,7 +14,7 @@ Laboratorio de Interacciones Bióticas, Universidad Autónoma de Tlaxcala, Mexic
 | `juan_2022_LaMalinche_moist_chambers.csv` | Moist chamber review data (J.P. Molina-Viramontes, 2022). La Malinche National Park. |
 | `stephanie_2025_sampling_points.csv` | GPS coordinates and substrate for the 12 collection points (Sept 3, 2025). |
 | `stephanie_2025_moist_chambers.csv` | Moist chambers with pH measurements (seeded Sept 9, 2025; pH measured Sept 10, 2025). |
-| `Sample_Database_CBF2023-2024-1480` | Data summarized in excel format |
+| `Sample_Database_CBF2023-2024-1480.xlsx` | Data summarized in excel format |
 ---
 
 ## Collection Sites
