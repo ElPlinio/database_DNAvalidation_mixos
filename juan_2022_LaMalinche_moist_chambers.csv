@@ -1,0 +1,37 @@
+#;prefix;degradation_level;Substrate;tree_number;pH;latitude_N;longitude_W;collection_site;collection_date;coordinates_source
+1;TLAX-2022-S1;High;Liiter;1;7.41;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+2;TLAX-2022-S1;Medium;Liiter;1;7.4;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+3;TLAX-2022-S1;Low;Liiter;1;6.55;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+4;TLAX-2022-S1;High;Liiter;2;7.35;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+5;TLAX-2022-S1;Medium;Liiter;2;6.6;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+6;TLAX-2022-S1;Low;Liiter;2;7.37;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+7;TLAX-2022-S1;High;Liiter;3;6.82;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+8;TLAX-2022-S1;Medium;Liiter;3;7.16;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+9;TLAX-2022-S1;Low;Liiter;3;7.17;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+10;TLAX-2022-S1;High;Liiter;4;7.01;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+11;TLAX-2022-S1;Medium;Liiter;4;7.2;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+12;TLAX-2022-S1;Low;Liiter;4;7.21;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+13;TLAX-2022-S1;High;Liiter;5;6.64;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+14;TLAX-2022-S1;Medium;Liiter;5;6.58;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+15;TLAX-2022-S1;Low;Liiter;5;7.1;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+16;TLAX-2022-S1;High;Liiter;6;7.53;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+17;TLAX-2022-S1;Medium;Liiter;6;7.06;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+18;TLAX-2022-S1;Low;Liiter;6;6.86;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+19;TLAX-2022-S1;High;Liiter;7;7.58;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+20;TLAX-2022-S1;Medium;Liiter;7;6.51;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+21;TLAX-2022-S1;Low;Liiter;7;6.51;19.321543;-98.268068;La Malinche National Park, Tlaxcala/Puebla, Mexico;5/8/2022;Molina-Viramontes et al. 2025 doi:10.1111/jeu.70058
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
+;;;;;;;;;;
